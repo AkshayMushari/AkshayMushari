@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">Hi 👋, I'm Mushari Akshay</h1>
 
 <h3 align="center" style="font-family: Arial, sans-serif; color: #555;">
-  I am a Computer Science and Engineering with Artificial Intelligence and Machine Learning undergrad at Chaitanya Bharathi Institute of Technology pursuing my final year. I am passionate about building applications that make an impact in the real world. I am a highly motivated and detail-oriented individual with a strong foundation in programming languages such as Python and C. With experience in software development methodologies such as Agile, I have experience with HTML, CSS, JavaScript, and frontend developmental tools such as Bootstrap. Additionally, I excel as a React and MERN stack developer. I am eager to apply my expertise to real-world projects and further expand my knowledge.
+  I am a Computer Science and Engineering with Artificial Intelligence and Machine Learning undergrad at Chaitanya Bharathi Institute of Technology pursuing my final year. I am passionate about building applications that make an impact in the real world. I am a highly motivated and detail-oriented individual with a strong foundation in programming languages such as Python and C. With experience in AI/ML field and have done many projects based in machine learning and ddep learning algorithms. I have experience with HTML, CSS, JavaScript, and frontend developmental tools such as Bootstrap. Additionally, I excel as a React and MERN stack developer. I am eager to apply my expertise to real-world projects and further expand my knowledge.
 </h3>
 
 <p align="left"> 
