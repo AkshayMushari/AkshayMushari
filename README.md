@@ -1,19 +1,22 @@
 <h1 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">Hi 👋, I'm Mushari Akshay</h1>
 
-<h3 align="center" style="font-family: Arial, sans-serif; color: #555;">I am a Computer Science and Engineering with Artificial intelligence and machine learning undergrad at Chaitanya Bharathi Institute of Technology pursuing my final year. I am passionate about building applications that make an impact in the real world. I am a highly motivated and detail-oriented individual with a strong foundation in programming languages such as Python, and C. With experience in software development methodologies such as Agile, I have experience with HTML, CSS, JavaScript, and frontend developmental tools such as bootstrap. Additionally, I excel as a React and MERN stack developer. I am eager to apply my expertise to real-world projects and further expand my knowledge.</h3>
+<h3 align="center" style="font-family: Arial, sans-serif; color: #555;">
+  I am a Computer Science and Engineering with Artificial Intelligence and Machine Learning undergrad at Chaitanya Bharathi Institute of Technology pursuing my final year. I am passionate about building applications that make an impact in the real world. I am a highly motivated and detail-oriented individual with a strong foundation in programming languages such as Python and C. With experience in software development methodologies such as Agile, I have experience with HTML, CSS, JavaScript, and frontend developmental tools such as Bootstrap. Additionally, I excel as a React and MERN stack developer. I am eager to apply my expertise to real-world projects and further expand my knowledge.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaymushari&label=Profile%20views&color=0e75b6&style=flat" alt="akshaymushari" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=akshaymushari&label=Profile%20views&color=0e75b6&style=flat" alt="akshaymushari" /> 
+</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AkshayMushari&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&exclude_repo=github-profile-trophy&title=Followers,Repositories,Stars,Commits,Contributions,Issues,PullRequest" alt="akshaymushari" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AkshayMushari&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&exclude_repo=github-profile-trophy&title=Followers,Repositories,Stars,Commits,Issues,PullRequest" alt="akshaymushari" />
   </a>
 </p>
 
-
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/AkshayMushari/E-Doctor" style="color: #FF5722;">E-Doctor (Engineered doctor)</a></li>
-  <li>🌱 I’m currently learning <strong>Generative AI, Cloud computing</strong></li>
+  <li>🌱 I’m currently learning <strong>Generative AI, Cloud Computing</strong></li>
   <li>👨‍💻 You are welcome to contribute to <a href="https://github.com/AkshayMushari/E-Doctor" style="color: #FF5722;">E-Doctor</a></li>
   <li>👨‍💻 All of my projects are available at <a href="portfolio" style="color: #FF5722;">portfolio</a></li>
   <li>💬 Ask me about <strong>Python, Algorithms, MERN Stack, ML, DL.</strong></li>
@@ -46,16 +49,25 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 5px;" /> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="margin: 5px;" /> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin: 5px;" /> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin: 5px;" /> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin: 5px;" /> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 5px;" /> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="margin: 5px;" /> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 5px;" /> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="margin: 5px;" /> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40" style="margin: 5px;" /> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin: 5px;" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaymushari&show_icons=true&locale=en&layout=compact" alt="akshaymushari" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkshayMushari&show_icons=true&theme=radical&count_private=true&hide=prs&title_color=ff5733&icon_color=ffb84d&text_color=c9c9c9&bg_color=151515&hide_border=true&line_height=24" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaymushari&show_icons=true&locale=en" alt="akshaymushari" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshayMushari&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff5733&icon_color=ffb84d&text_color=c9c9c9&bg_color=151515&hide_border=true" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaymushari&" alt="akshaymushari" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayMushari&theme=radical&count_private=true&hide=prs&title_color=ff5733&icon_color=ffb84d&text_color=c9c9c9&bg_color=151515&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayMushari&theme=radical&count_private=true&hide=prs&title_color=ff5733&icon_color=ffb84d&text_color=c9c9c9&bg_color=151515&hide_border=true" alt="GitHub Profile Details" />
+</p>
